@@ -1,0 +1,20 @@
+{
+  "name": "docker-next",
+  "version": "1.0.0",
+  "description": "A Docker Application containerizing Next JS",
+  "main": "index.js",
+  "scripts": {
+    "dev": "echo 'Dev Test 2'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simar-singh/Docker-Next.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simar-singh/Docker-Next/issues"
+  },
+  "homepage": "https://github.com/simar-singh/Docker-Next#readme"
+}
