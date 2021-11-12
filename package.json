@@ -4,7 +4,7 @@
   "description": "A Docker Application containerizing Next JS",
   "main": "index.js",
   "scripts": {
-    "dev": "echo 'Dev Test 2'"
+    "dev": "echo 'Dev Test 3'"
   },
   "repository": {
     "type": "git",
