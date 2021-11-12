@@ -3,4 +3,4 @@ ARG cmd=""
 ENV arg=$cmd
 
 WORKDIR /app
-RUN npm $arg
+RUN if [ "$arg" != "" ]; then npm $arg ; fi

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-if [ "npm" = $1 ]; 
+if [ "npm" = "$1" ]; 
 then
   first=$1 shift;
   str="${@}"
